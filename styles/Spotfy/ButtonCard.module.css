@@ -1,0 +1,29 @@
+.btnTitle {
+    display: flex;
+    align-items: center;
+    border: none;
+    background: none;
+    color: #ccc;
+    font-size: 15px;
+    font-weight: 600;
+    cursor: pointer;
+}
+.btnTitle:hover{
+    text-decoration: underline;
+    color: #fff;
+}
+
+.btn{
+    display: flex;
+    align-items: center;
+    border: none;
+    background: none;
+    color: #ccc;
+    font-size: 10px;
+    font-weight: 500;
+    cursor: pointer;
+}
+.btn:hover{
+    text-decoration: underline;
+    color: #fff;
+}
